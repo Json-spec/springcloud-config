@@ -1,0 +1,5 @@
+# springcloud-config
+springcloud-config是为了测试springcloud-config的分布式配置中心的测试仓库。
+分布式配置中心主要作用是为了：在远程上修改配置文件一处修改处使用。
+技术产生的前景: 在springboot的项目开发中一个服务通常需要一个或者多个配置文件，这样的多服务开发中对于配置文件来说会有较大部分的文件有相同部分
+因此诞生了springcloud-config技术，公共的部分配置提取出来作为远程分布式配置这样可以一处修改处处运行。
