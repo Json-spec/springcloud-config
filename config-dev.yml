@@ -1,0 +1,8 @@
+config:
+   msg: 您好这是dev环境的分布式配置信心文件
+spring:
+  datasource:
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
