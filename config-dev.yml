@@ -1,5 +1,5 @@
 config:
-   msg: 您好这是dev环境的分布式配置信心文件(测试动态刷新问题是否解决？)
+   msg: 您好这是dev环境的分布式配置信心文件(测试动态刷新问题是否解决？？)
 spring:
   datasource:
     username: root
